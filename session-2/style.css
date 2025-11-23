@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color: blue;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    border: 1px solid red;
+    padding: 10px ;
+    margin: 10px 0px;
+    display: inline;
+}
+
+
+span{
+    /* background-color: red; */
+    width: 300px;
+    display: inline-block;
+}
