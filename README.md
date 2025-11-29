@@ -12,3 +12,5 @@ https://www.notion.so/HTML-Forms-2acab6ff96f580df8517d7bf1f639be4?source=copy_li
 https://www.notion.so/CSS-Basics-2b3ab6ff96f58035ab84eaae80d1bf28?source=copy_link
 # Box Model & Display
 https://www.notion.so/Box-Model-Display-2b4ab6ff96f58014816fe17a58dea64d?source=copy_link
+# CSS Colors and Backgrounds
+https://www.notion.so/CSS-Colors-Backgrounds-2b4ab6ff96f5806d8debc9bc065fcdfa?source=copy_link
