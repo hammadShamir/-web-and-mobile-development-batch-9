@@ -1,0 +1,20 @@
+body {
+    /* background-color: red; */
+    /* background-image: url('https://tse3.mm.bing.net/th/id/OIP.Qf_E0tjP3uGgKqgQYGcIzgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; */
+    /* background: red url('https://tse3.mm.bing.net/th/id/OIP.Qf_E0tjP3uGgKqgQYGcIzgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3') no-repeat center/cover fixed; */
+}
+
+.box {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* background: linear-gradient(55deg, red, yellow, green); */
+     /* background: radial-gradient(circle, red, yellow, green,blue); */
+      /* background: conic-gradient(red, yellow, green); */
+      /* background: linear-gradient(from bottom, red, to right, yellow); */
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+}
