@@ -16,3 +16,5 @@ https://www.notion.so/Box-Model-Display-2b4ab6ff96f58014816fe17a58dea64d?source=
 https://www.notion.so/CSS-Colors-Backgrounds-2b4ab6ff96f5806d8debc9bc065fcdfa?source=copy_link
 # CSS Units
 https://www.notion.so/CSS-Units-2baab6ff96f5809b8116cd31aa75219c?source=copy_link
+# CSS FlexBox
+https://www.notion.so/CSS-FlexBox-2bbab6ff96f580e29132ea7a86be3f15?source=copy_link
