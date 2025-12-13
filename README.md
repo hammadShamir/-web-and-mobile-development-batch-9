@@ -1,3 +1,5 @@
+# HTML Document Structure, Meta Tags
+https://www.notion.so/HTML-Document-Structure-Meta-Tags-Script-Code-2c8ab6ff96f5805b9adecb4fc7edd666?source=copy_link
 # HTML links & Directory notes:
 https://www.notion.so/HTML-Links-File-Directory-Structure-297ab6ff96f58094b512d06277459455?source=copy_link
 # HTML Images Notes:
