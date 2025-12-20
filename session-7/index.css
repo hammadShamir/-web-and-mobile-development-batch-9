@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    width: fit-content;
+    position: relative;
+    z-index: 2;
+    height: 300px;
+    overflow: scroll;
+}
+
+/* .child {
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    right: 0px;
+} */
+
+/* .fixed{
+    background-color: yellow;
+    position: sticky;
+    top: 10px;
+    width: 100%;
+    z-index: 5;
+} */
