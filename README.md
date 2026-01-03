@@ -24,3 +24,5 @@ https://www.notion.so/CSS-Units-2baab6ff96f5809b8116cd31aa75219c?source=copy_lin
 https://www.notion.so/CSS-FlexBox-2bbab6ff96f580e29132ea7a86be3f15?source=copy_link
 # CSS Positioning & Z-Index
 https://www.notion.so/Positioning-Z-Index-2cfab6ff96f58033adbac1f78269dca1?source=copy_link
+# CSS Grid
+https://www.notion.so/Grid-2d0ab6ff96f5801ca579d1bc718d05cf?source=copy_link
