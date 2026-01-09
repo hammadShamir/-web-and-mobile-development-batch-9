@@ -26,3 +26,5 @@ https://www.notion.so/CSS-FlexBox-2bbab6ff96f580e29132ea7a86be3f15?source=copy_l
 https://www.notion.so/Positioning-Z-Index-2cfab6ff96f58033adbac1f78269dca1?source=copy_link
 # CSS Grid
 https://www.notion.so/Grid-2d0ab6ff96f5801ca579d1bc718d05cf?source=copy_link
+# Media Queries & Responsive Desigs
+https://www.notion.so/Media-Queries-Responsive-Designs-2e3ab6ff96f58015bd83eb4517f2b6a9?source=copy_link
